@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/app_freeze"
+            android:title="Freeze Apps" />
+        <item
+            android:id="@+id/root_ckeck123"
+            android:title="Root Check" />
+        <item
+            android:id="@+id/unfreeze_app123"
+            android:title="Unfreeze App" />
+        <item
+            android:id="@+id/nav_manage"
+            android:title="Option2" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:title="Option3" />
+            <item
+                android:id="@+id/nav_send"
+                android:title="Option4" />
+        </menu>
+    </item>
+
+</menu>

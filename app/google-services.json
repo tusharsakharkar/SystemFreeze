@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "595006339392",
+    "project_id": "system-freeze"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595006339392:android:6e5a3802699778c0",
+        "android_client_info": {
+          "package_name": "com.example.tusharking.systemfreeze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKNQ4TjvcautlmZjgqCUPownTkO5N2mHo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-85111610-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">System Freeze</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="banner_home_footer">ca-app-pub-6062836736470600/5160227977</string>
+</resources>
